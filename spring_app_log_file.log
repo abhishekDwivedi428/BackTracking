@@ -1,0 +1,81 @@
+"2022-01-12 08:47:16 - Starting BackTrackingApplication using Java 1.8.0_131 on DESKTOP-E5DF779 with PID 11168 (F:\Backtrack\BackTracking\build\classes\java\main started by Abhishek in F:\Backtrack\BackTracking)
+""2022-01-12 08:47:16 - No active profile set, falling back to default profiles: default
+""2022-01-12 08:47:21 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'scopedTarget.oauth2ClientContext' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]] for bean 'scopedTarget.oauth2ClientContext': There is already [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.security.oauth2.config.annotation.web.configuration.OAuth2ClientConfiguration$OAuth2ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class]] bound.
+""2022-01-12 08:47:21 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2022-01-12 08:47:22 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'scopedTarget.oauth2ClientContext', defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+""2022-01-12 08:48:12 - Starting BackTrackingApplication using Java 1.8.0_131 on DESKTOP-E5DF779 with PID 15564 (F:\Backtrack\BackTracking\build\classes\java\main started by Abhishek in F:\Backtrack\BackTracking)
+""2022-01-12 08:48:12 - No active profile set, falling back to default profiles: default
+""2022-01-12 08:48:13 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'scopedTarget.oauth2ClientContext' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]] for bean 'scopedTarget.oauth2ClientContext': There is already [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.security.oauth2.config.annotation.web.configuration.OAuth2ClientConfiguration$OAuth2ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class]] bound.
+""2022-01-12 08:48:13 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2022-01-12 08:48:13 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'scopedTarget.oauth2ClientContext', defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+""2022-01-12 08:49:48 - Starting BackTrackingApplication using Java 1.8.0_131 on DESKTOP-E5DF779 with PID 12668 (F:\Backtrack\BackTracking\build\classes\java\main started by Abhishek in F:\Backtrack\BackTracking)
+""2022-01-12 08:49:48 - No active profile set, falling back to default profiles: default
+""2022-01-12 08:49:49 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'scopedTarget.oauth2ClientContext' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]] for bean 'scopedTarget.oauth2ClientContext': There is already [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.security.oauth2.config.annotation.web.configuration.OAuth2ClientConfiguration$OAuth2ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class]] bound.
+""2022-01-12 08:49:49 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2022-01-12 08:49:49 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'scopedTarget.oauth2ClientContext', defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+""2022-01-12 09:10:41 - Starting BackTrackingApplication using Java 1.8.0_131 on DESKTOP-E5DF779 with PID 10428 (F:\Backtrack\BackTracking\build\classes\java\main started by Abhishek in F:\Backtrack\BackTracking)
+""2022-01-12 09:10:42 - No active profile set, falling back to default profiles: default
+""2022-01-12 09:10:43 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'scopedTarget.oauth2ClientContext' defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]: Cannot register bean definition [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class]] for bean 'scopedTarget.oauth2ClientContext': There is already [Root bean: class [null]; scope=session; abstract=false; lazyInit=null; autowireMode=3; dependencyCheck=0; autowireCandidate=false; primary=false; factoryBeanName=org.springframework.security.oauth2.config.annotation.web.configuration.OAuth2ClientConfiguration$OAuth2ClientContextConfiguration; factoryMethodName=oauth2ClientContext; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class]] bound.
+""2022-01-12 09:10:43 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+""2022-01-12 09:10:43 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'scopedTarget.oauth2ClientContext', defined in class path resource [org/springframework/boot/autoconfigure/security/oauth2/client/OAuth2RestOperationsConfiguration$SessionScopedConfiguration$ClientContextConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [org/springframework/security/oauth2/config/annotation/web/configuration/OAuth2ClientConfiguration$OAuth2ClientContextConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+"
